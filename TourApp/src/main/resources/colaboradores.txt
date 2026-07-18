@@ -1,0 +1,9 @@
+GUIA;Matias Soto;Guia de Montaña
+GUIA;Francisca Muñoz;Guia Bilingue
+GUIA;Diego Hernandez;Guia de Trekking
+OPERADOR;Rodrigo Vega;Chofer de Bus Turistico
+OPERADOR;Camila Reyes;Coordinadora de Transporte
+OPERADOR;Sebastian Pizarro;Chofer de Van
+PROVEEDOR;Hotel Vista Lago;Alojamiento
+PROVEEDOR;Cabañas Los Volcanes;Alojamiento
+PROVEEDOR;Hostal Puerto Varas;Alojamiento

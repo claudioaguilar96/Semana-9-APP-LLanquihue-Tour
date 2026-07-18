@@ -1,0 +1,4 @@
+T001;Ascenso Volcan Osorno;Volcan Osorno;Matias Soto
+T002;Tour Saltos del Petrohue;Saltos del Petrohue;Francisca Muñoz
+T003;Trekking Sendero Los Alerces;Parque Vicente Perez Rosales;Diego Hernandez
+T004;City Tour Puerto Varas;Puerto Varas;Francisca Muñoz
